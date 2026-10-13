@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "path": "/", "title": "BloomBuddy Home" },
+    { "path": "/shop", "title": "Shop BloomBuddy" },
+    { "path": "/gift-sets", "title": "BloomBuddy Gift Sets" },
+    { "path": "/about", "title": "About BloomBuddy" },
+    { "path": "/contact", "title": "Contact BloomBuddy" }
+  ]
+}
